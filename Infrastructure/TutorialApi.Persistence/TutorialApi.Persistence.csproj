@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Core\TutorialApi.Application\TutorialApi.Application.csproj" />
     <ProjectReference Include="..\..\Core\TutorialApi.Domain\TutorialApi.Domain.csproj" />
   </ItemGroup>
 
